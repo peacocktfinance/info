@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/info",
   "private": true,
-  "homepage": "http://info.peacockfinance.org",
+  "homepage": "https://peacocktfinance.github.io/info",
   "devDependencies": {
     "@popperjs/core": "^2.4.2",
     "@reach/portal": "^0.10.3",
