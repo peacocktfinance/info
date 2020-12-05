@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.dfbb8172.chunk.js",
-    "main.js.map": "/static/js/main.dfbb8172.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c0105f97.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c0105f97.js.map",
-    "static/js/2.2ee4ef05.chunk.js": "/static/js/2.2ee4ef05.chunk.js",
-    "static/js/2.2ee4ef05.chunk.js.map": "/static/js/2.2ee4ef05.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.71bf60306b991ce1afdea385e3ea03f1.js": "/precache-manifest.71bf60306b991ce1afdea385e3ea03f1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.2ee4ef05.chunk.js.LICENSE.txt": "/static/js/2.2ee4ef05.chunk.js.LICENSE.txt",
-    "static/media/eth.png": "/static/media/eth.73dabb37.png",
-    "static/media/logo.svg": "/static/media/logo.63b67a0a.svg",
-    "static/media/logo_white.svg": "/static/media/logo_white.63b67a0a.svg",
-    "static/media/wordmark_white.svg": "/static/media/wordmark_white.9914390f.svg"
+    "main.js": "/info/static/js/main.dfbb8172.chunk.js",
+    "main.js.map": "/info/static/js/main.dfbb8172.chunk.js.map",
+    "runtime-main.js": "/info/static/js/runtime-main.7035e41c.js",
+    "runtime-main.js.map": "/info/static/js/runtime-main.7035e41c.js.map",
+    "static/js/2.27424ce6.chunk.js": "/info/static/js/2.27424ce6.chunk.js",
+    "static/js/2.27424ce6.chunk.js.map": "/info/static/js/2.27424ce6.chunk.js.map",
+    "index.html": "/info/index.html",
+    "precache-manifest.67fd02bda17ba16dc1cdd6825fca2f83.js": "/info/precache-manifest.67fd02bda17ba16dc1cdd6825fca2f83.js",
+    "service-worker.js": "/info/service-worker.js",
+    "static/js/2.27424ce6.chunk.js.LICENSE.txt": "/info/static/js/2.27424ce6.chunk.js.LICENSE.txt",
+    "static/media/eth.png": "/info/static/media/eth.73dabb37.png",
+    "static/media/logo.svg": "/info/static/media/logo.63b67a0a.svg",
+    "static/media/logo_white.svg": "/info/static/media/logo_white.63b67a0a.svg",
+    "static/media/wordmark_white.svg": "/info/static/media/wordmark_white.9914390f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0105f97.js",
-    "static/js/2.2ee4ef05.chunk.js",
+    "static/js/runtime-main.7035e41c.js",
+    "static/js/2.27424ce6.chunk.js",
     "static/js/main.dfbb8172.chunk.js"
   ]
 }
